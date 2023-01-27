@@ -8,7 +8,7 @@ namespace StringLibrary
 {
     public class StringLibraryClass
     {
-        public static string Reverse(string text) 
+        public static string MethodA(string text) 
         {
             return text;
         }

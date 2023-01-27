@@ -13,7 +13,7 @@ namespace StringLibrary.Tests.Unit
         [Test]
         public void Test1()
         {
-            Assert.AreEqual(true, true);
+            Assert.IsTrue(true);
         }
     }
 }
